@@ -1,0 +1,20 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+:root {
+  color-scheme: light dark;
+}
+
+@media (prefers-color-scheme: light) {
+  body {
+    background-color: #fff;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #000;
+  }
+}
