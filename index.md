@@ -1,13 +1,17 @@
-## Plugins
+<h1 align="center">
+  <a href="https://github.com/alexanderiscoding">
+    Alexanderiscoding
+  </a>
+</h1>
 
-Dillinger is currently extended with the following plugins.
-Instructions on how to use them in your own application are linked below.
+<p align="center">
+  <strong>Bem vindo ao meu site pessoal!</strong>
+</p>
 
-| Plugin | README |
-| ------ | ------ |
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
-| GitHub | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
+<h3 align="center">
+  <a href="vdp.md">Vulnerabilidades</a>
+  <span> · </span>
+  <a href="privacy.md">Privacidade</a>
+  <span> · </span>
+  <a href="/terms">Termos</a>
+</h3>
