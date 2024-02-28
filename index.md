@@ -9,9 +9,9 @@
 </p>
 
 <h3 align="center">
-  <a href="vdp.md">Vulnerabilidades</a>
+  <a href="vdp">Vulnerabilidades</a>
   <span> · </span>
-  <a href="privacy.md">Privacidade</a>
+  <a href="./privacy">Privacidade</a>
   <span> · </span>
   <a href="/terms">Termos</a>
 </h3>
